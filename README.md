@@ -13,6 +13,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"  height="30" style="max-width:100%;"></img>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviane16&show_icons=true&theme=radical)
+
+
 
 
 
