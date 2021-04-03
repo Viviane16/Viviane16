@@ -1,6 +1,6 @@
 ### Oi, Eu sou a Viviane Chaves! 👋
 
-<img src="https://auscracker.com/wp-content/uploads/2019/10/cartoon-cute-girl-2.gif" alt="this slowpoke moves" width="250" height="250" jsaction="load:XAeZkd;" style="max-width:900%;"></img>
+<img src="https://auscracker.com/wp-content/uploads/2019/10/cartoon-cute-girl-2.gif" alt="this slowpoke moves" width="250" height="250" style="max-width:900%;"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviane16&show_icons=true&theme=radical)
 
